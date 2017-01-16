@@ -1,0 +1,15 @@
+body {
+	font-family: 'Open Sans', sans-serif; 
+	font-size: 16px;
+	font-weight: 300;
+	color: #555;
+	margin: 0;
+	padding: 0;
+	background: url("franklin.jpg") no-repeat center;
+}
+
+#page {
+	max-width: 1200px;
+	margin: 0 auto;
+	position: relative;
+}
